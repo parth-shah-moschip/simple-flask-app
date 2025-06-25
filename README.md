@@ -7,6 +7,7 @@ A basic Python Flask web app containerized using Docker.
 ### 1. Clone the Repository
 
 git clone https://github.com/parth-shah-moschip/simple-flask-app.git
+
 cd simple-flask-app
 
 ### 2. Build Docker Image
