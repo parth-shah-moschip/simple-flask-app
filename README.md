@@ -2,7 +2,7 @@
 
 A basic Python Flask web app containerized using Docker.
 
-## 🐳 Run With Docker
+## Run With Docker
 
 ### 1. Clone the Repository
 
